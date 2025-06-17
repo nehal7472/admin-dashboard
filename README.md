@@ -1,12 +1,26 @@
-# React + Vite
+# 💸 Expense Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Netlify Link - https://dashboard-nehal.netlify.app/expenses
 
-Currently, two official plugins are available:
+A clean and modern expense tracking dashboard built using **React**, **Tailwind CSS**, and **React Router**. This project helps users keep track of their spending, visualize expenses, and manage financial categories with ease.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Dashboard Screenshot](./aa3e4e65-b6cf-4f84-9efe-80e65f66394d.png)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📊 **Expense Overview** – Visual bar graph representing daily expenses.
+- 📅 **Daily Expense Log** – Track and view transactions by date.
+- 💼 **Categorized Spending** – Breakdown of expenses by category (Food, Shopping, Transportation, etc.).
+- 📁 **Sidebar Navigation** – Quick access to Dashboard, Wallets, Summary, Accounts, and Settings.
+- 💡 **Save Tips Section** – Area to display savings tips.
+- 🌐 **React Router Integration** – Smooth navigation between routes/pages.
+- 💅 **Tailwind CSS Styling** – Responsive, clean, and customizable UI.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, React Router
+- **Styling**: Tailwind CSS
+- **Icons**: Heroicons or custom SVGs
+
+## 📁 Folder Structure
+
