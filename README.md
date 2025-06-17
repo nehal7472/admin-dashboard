@@ -1,6 +1,6 @@
 # 💸 Expense Dashboard
 
-Netlify Link - [[https://dashboard-nehal.netlify.app/expenses](https://dashboard-nehal.netlify.app/expenses)](https://dashboard-nehal.netlify.app/)
+Netlify Link - https://dashboard-nehal.netlify.app/
 
 A clean and modern expense tracking dashboard built using **React**, **Tailwind CSS**, and **React Router**. This project helps users keep track of their spending, visualize expenses, and manage financial categories with ease.
 
