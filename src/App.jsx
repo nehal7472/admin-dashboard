@@ -1,12 +1,12 @@
 import { Routes, Route } from "react-router-dom";
-import MainLayout from "./assets/layout/MainLayout";
+import MainLayout from "./layout/MainLayout";
 
-import Dashboard from "./assets/pages/Dashboard";
-import Expenses from "./assets/pages/Expenses";
-import Wallets from "./assets/pages/Wallets";
-import Summary from "./assets/pages/Summary";
-import Accounts from "./assets/pages/Accounts";
-import Settings from "./assets/pages/Settings";
+import Dashboard from "./pages/Dashboard";
+import Expenses from "./pages/Expenses";
+import Wallets from "./pages/Wallets";
+import Summary from "./pages/Summary";
+import Accounts from "./pages/Accounts";
+import Settings from "./pages/Settings";
 
 function App() {
   return (

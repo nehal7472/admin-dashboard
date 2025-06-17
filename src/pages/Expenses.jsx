@@ -1,10 +1,10 @@
-import ExpenseBar from "../../components/ExpenseBar";
-import ExpenseItem from "../../components/ExpenseItem";
+import ExpenseBar from "../components/ExpenseBar";
+import ExpenseItem from "../components/ExpenseItem";
 import { IoCartOutline } from "react-icons/io5";
 import { BsTruckFront } from "react-icons/bs";
 import { LuHouse } from "react-icons/lu";
 import { MdOutlineFastfood, MdOutlineVideoCameraBack } from "react-icons/md";
-import ExpenseCard from "../../components/ExpenseCard";
+import ExpenseCard from "../components/ExpenseCard";
 
 const Expenses = () => {
   const ExpenseItems = [
@@ -107,7 +107,7 @@ const Expenses = () => {
       </div>
 
       <div className="w-full md:w-2/6 bg-gray-100 dark:bg-[#F9FAFC] p-8 rounded-lg flex flex-col justify-between ">
-        <div>
+        <div className="pb-12">
           <h2 className="text-lg font-semibold mb-4">Where your money go?</h2>
 
           {ExpenseBarData.map((item, index) => (
